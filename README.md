@@ -1,4 +1,6 @@
-# LIVE DEMO : https://react-blog-eight.vercel.app/
+# LIVE DEMO : 
+Vecrel - https://react-blog-eight.vercel.app/
+Github Pages - https://saif-raw.github.io/react-blog/
 
 ## Available Scripts
 
